@@ -1,7 +1,7 @@
 # flink-reporter
 自定义flink metrics reporter上报checkpoint信息
 
-##操作
+## 操作
 * 编译本项目并把jar包上传到flink_home/lib/下
 * 修改flin_home/conf/flink-conf.yaml
 ```yaml
